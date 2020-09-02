@@ -1,0 +1,7 @@
+C:\Users\alex\source\repos\Odd-Even Kino\Odd-Even Kino\bin\Debug\Odd-Even Kino.exe.config
+C:\Users\alex\source\repos\Odd-Even Kino\Odd-Even Kino\bin\Debug\Odd-Even Kino.exe
+C:\Users\alex\source\repos\Odd-Even Kino\Odd-Even Kino\bin\Debug\Odd-Even Kino.pdb
+C:\Users\alex\source\repos\Odd-Even Kino\Odd-Even Kino\obj\Debug\Odd-Even Kino.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\Odd-Even Kino\Odd-Even Kino\obj\Debug\Odd-Even Kino.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\Odd-Even Kino\Odd-Even Kino\obj\Debug\Odd-Even Kino.exe
+C:\Users\alex\source\repos\Odd-Even Kino\Odd-Even Kino\obj\Debug\Odd-Even Kino.pdb
